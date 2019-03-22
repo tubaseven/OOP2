@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoyageFramework", "VoyageFramework\VoyageFramework.csproj", "{B09628E3-0247-4123-8F89-79684D6B16E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09628E3-0247-4123-8F89-79684D6B16E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09628E3-0247-4123-8F89-79684D6B16E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09628E3-0247-4123-8F89-79684D6B16E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09628E3-0247-4123-8F89-79684D6B16E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A160B9A-4954-409F-A0DB-74DDD574B70B}
+	EndGlobalSection
+EndGlobal
